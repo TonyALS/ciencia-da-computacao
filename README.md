@@ -86,15 +86,15 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 ## Formação Geral
 
-### Introdução a Computação
+### Introdução a Computação [ Em andamento ]
 
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão
-:-- | :--: | :--: | :--: | :--: | :--:
-[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | [chat](#)
-[Matemática Básica](https://www.youtube.com/playlist?list=PLrOyM49ctTx9pRhKP90mGKhBstkTnBQbp) | 9 Semanas | 4 horas/semana | Números Primos; Bases Numéricas; Módulo; Gráficos. | - | [chat](#)
-[Introdução à Conceitos de Computação](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMJsy6GQ5URM9kU32ONOy9) | 4 semanas | 2 horas/semana | Sistemas Operacionais; Redes; Arquivos; História da Computação. | - | [chat](#)
-[Leitura e Produção de Textos](https://www.youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | - | [chat](#)
-[Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | - | [chat](#)
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Discussão | Progresso
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
+[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | [chat](#) | Em andamento
+[Matemática Básica](https://www.youtube.com/playlist?list=PLrOyM49ctTx9pRhKP90mGKhBstkTnBQbp) | 9 Semanas | 4 horas/semana | Números Primos; Bases Numéricas; Módulo; Gráficos. | - | [chat](#) | Em andamento
+[Introdução à Conceitos de Computação](https://www.youtube.com/playlist?list=PLxI8Can9yAHcMJsy6GQ5URM9kU32ONOy9) | 4 semanas | 2 horas/semana | Sistemas Operacionais; Redes; Arquivos; História da Computação. | - | [chat](#) | Aguardando
+[Leitura e Produção de Textos](https://www.youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | - | [chat](#) | Aguardando
+[Circuitos Digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf) | 9 semanas | 4 horas/semana | Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos. | - | [chat](#) | Aguardando
 <!---
 [Lógica Formal](#) | x semanas | x horas/semana | - | - | [chat](#)
 
